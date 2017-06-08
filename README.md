@@ -16,14 +16,14 @@ cp slack-emojis-essentials/all.yaml emojipacks/packs
 cp slack-emojis-essentials/essentials.yaml emojipacks/packs
 cd emojipacks
 ```
-`sudo make` or you may be able to just do `make`
+`sudo make` (or you may be able to just do `make`)
 ```
 emojipacks
 ```
 It'll ask you a few questions:
 ```
-Slack subdomain: 20percentclub
-Email address login: andyjiang@gmail.com
+Slack subdomain: ninjaslackhideout
+Email address login: mrninja@gmail.com
 Password: *********
 Path or URL of Emoji yaml file: ./packs/all.yaml
 ```
