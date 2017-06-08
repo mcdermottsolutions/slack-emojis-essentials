@@ -1,6 +1,8 @@
 # slack-emojis-essentials
 To be used in conjunction with https://github.com/lambtron/emojipacks/
-The all.yaml file here uploads all the packs listed on https://github.com/lambtron/emojipacks/tree/master/packs
+
+The all.yaml file here uploads all 29 packs listed on https://github.com/lambtron/emojipacks/tree/master/packs
+
 The essentials.yaml file here uploads about 100 extra emojis of my own devising.
 
 ## Two files for all the slack emojis and then some?
