@@ -1,4 +1,4 @@
-# slack-emojis-essentials
+# Slack Emojis Essentials
 Upload about 1500 emojis to your slack channel relatively painlessly.
 
 (To be used in conjunction with https://github.com/lambtron/emojipacks/)
