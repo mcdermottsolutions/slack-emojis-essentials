@@ -13,7 +13,6 @@ I always use https://github.com/lambtron/emojipacks/ when i start a new slack ch
 git clone https://github.com/mcdermottsolutions/slack-emojis-essentials.git
 git clone https://github.com/lambtron/emojipacks.git
 cp slack-emojis-essentials/all.yaml emojipacks/packs
-cp slack-emojis-essentials/essentials.yaml emojipacks/packs
 cd emojipacks
 sudo make
 ```
