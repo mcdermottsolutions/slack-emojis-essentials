@@ -22,7 +22,7 @@ then type
 ```
 emojipacks
 ```
-It'll ask you a few questions:
+It'll ask you a few questions (enter your own info for subdomain, email & password):
 ```
 Slack subdomain: ninjaslackhideout
 Email address login: mrninja@gmail.com
