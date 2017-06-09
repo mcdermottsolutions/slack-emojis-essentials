@@ -29,7 +29,7 @@ Email address login: mrninja@gmail.com
 Password: *********
 Path or URL of Emoji yaml file: ./packs/all.yaml
 ```
-This will take *forever* - maybe 20 or 40 minutes on decent internet (60 mbps)
+This will take *forever* - about an hour on decent internet (60 mbps)
 
 Enjoy!
 Let me know if it gives you any problems or anything! 😎
