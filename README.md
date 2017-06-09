@@ -6,7 +6,7 @@ Upload about 1500 emojis to your slack channel relatively painlessly.
 The all.yaml file here uploads all 29 packs listed on https://github.com/lambtron/emojipacks/tree/master/packs to your slack channel and also uploads about 100 extra emojis that my friends & I have made.
 
 ## One .yaml file for all the slack emojis and then some?
-I always use https://github.com/lambtron/emojipacks/ when i start a new slack channel but uploading each pack individually is a real pain in the tuchus.  So I use this all.yaml file here to just upload them all at once.  "At once" is optimistic - this takes maybe 20 or 40 minutes on decent internet (60 mbps).  Using this one file eliminates the need to reenter your slack subdomain, email, password and yaml path every few minutes, 30 times in a row.
+I always use https://github.com/lambtron/emojipacks/ when i start a new slack channel but uploading each pack individually is a real pain in the tuchus.  So I use this all.yaml file here to just upload them all at once.  "At once" is optimistic - it takes about an hour on decent internet (60 mbps).  Using this one file eliminates the need to reenter your slack subdomain, email, password and yaml path every few minutes, 30 times in a row.
 
 ## Instructions
 ```
